@@ -1,4 +1,4 @@
-# 🔥 Image Generation Workflows
+# 🧠 Customer Churn Prediction
 
 Welcome to **My Streamlit App For Customer Churn Prediction**
 
