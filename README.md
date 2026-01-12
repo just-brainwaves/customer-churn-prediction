@@ -15,8 +15,7 @@ Welcome to **My Streamlit App For Customer Churn Prediction**
 
 * ⬆️ Easy To Understand UI (Made using streamlit)
 
-
-
+---
 
 To Run - Simply Clone The Repository And Run This Command Inside The Folder - 
 ```bash
