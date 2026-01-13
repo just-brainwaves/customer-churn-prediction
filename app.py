@@ -1,9 +1,3 @@
-# Gender -> 1 Female, 0 Male
-# Churn -> 1 Yes, 0 No
-# Scaler Is Exported As scaler.pkl
-# Model Is Exported As model.pkl
-# Order Of X Is -> 'Age', 'Gender', 'Tenure', 'MonthlyCharges'
-
 import streamlit as st
 import joblib
 import numpy as np
@@ -49,4 +43,5 @@ if predictButton:
     st.write(f"Predicted: {predicted}")
 
 else:
+
     st.write("Please Enter The Values And Use The Predict Button To Predict The Values !")
